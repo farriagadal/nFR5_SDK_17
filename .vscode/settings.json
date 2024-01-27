@@ -13,5 +13,14 @@
     "nrf_sdm.h": "c",
     "ble_db_discovery.h": "c"
   },
-  "workbench.colorTheme": "Solarized Dark"
+  "favorites.resources": [
+    {
+      "filePath": "examples\\ble_central\\ble_app_hrs_custom\\main.c",
+      "group": "Default"
+    },
+    {
+      "filePath": "components\\ble\\common\\ble_srv_common.h",
+      "group": "Default"
+    }
+  ]
 }
