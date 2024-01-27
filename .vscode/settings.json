@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "nrf_log.h": "c",
+    "sdk_config.h": "c",
+    "nrf_log_ctrl.h": "c",
+    "ble_init.h": "c",
+    "nrf_log_default_backends.h": "c",
+    "ble_hci.h": "c",
+    "nrf_sdh.h": "c",
+    "nrf_sdh_ble.h": "c",
+    "stdint.h": "c",
+    "ble_srv_common.h": "c",
+    "nrf_sdm.h": "c",
+    "ble_db_discovery.h": "c"
+  },
+  "workbench.colorTheme": "Solarized Dark"
+}
